@@ -6,10 +6,10 @@ For now, please add and customize the following questions:
 
 Cytometry In R
 
-Location: Baltimore, Maryland, USA
+Location: Istanbul Turkey.
 
-My Favorite Fluorophore/Metal-Isotope: Spark Blue 550
+My Favorite Fluorophore/Metal-Isotope: Alexa Fluor 488
 
-Previous Coding Experience: Repeatedly Calling IT
+Previous Coding Experience: I have experience with Interface based platforms such as Flow Jo, Kaluza, FCS Express. But I want to learn R for Cytometry data analysis. 
 
 What I Hope to Get From This Course: Analysis Spectral and Conventional Cytometry Data with better and more accessible way.
